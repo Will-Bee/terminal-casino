@@ -1,2 +1,3 @@
-# terminal-casino
-GAMBAAAAA (ai slop, expandable)
+# terminal-casino - AI Slop
+
+
